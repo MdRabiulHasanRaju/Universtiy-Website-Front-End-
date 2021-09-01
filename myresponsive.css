@@ -1,0 +1,140 @@
+@media (max-width:992px){
+	.img1 img {
+	/* width: 100%; */
+	/* width: -moz-min-content; */
+	/* height: 510px; */
+	width: 750px;
+}
+	
+}
+
+@media (max-width:768px){
+.sticky {
+	display:none;
+background: linear-gradient(0deg, #8490ff 0%, #62bdfc 100%)!important;
+
+}
+.navbar {
+	padding-top: 0;
+	background: linear-gradient(#74A6FE,black);
+}
+.navbar-right {
+	top: 0px;
+}
+.navbar-no-bg ul.navbar-nav li a{
+	
+	color:white;
+}
+.mainslide {
+	height: 235px;
+}
+.img1 img {
+	height: 423px;
+}
+.pciulogo {}
+.pciulogo img {
+	display:none;
+}
+.pciulogo h1 {
+	position: relative;
+	float: left;
+}
+.topimg {
+	position: relative;
+	bottom: 147px;
+}
+.topimg h1 {
+	font-size: 25px;
+	line-height: 37px;
+}
+.description{}
+.description p {
+	font-size: 13px;
+	line-height: 25px;
+}
+.divslidendabout {
+	margin-top: -43px;
+}
+.home-about-area{
+	
+	
+}
+.aboutimg{}
+.aboutimg img {
+
+}
+
+.ourabout{}
+.ourabout h1 {
+	font-size: 30px;
+}
+.ourabout span{
+	
+
+}
+.ourabout p {
+
+}
+.ourprgmhcontent {
+	width:100%;
+	height:100%;
+}
+.evntcontent {
+	height: 100%;
+}
+.ourprgmhcontent img {
+	height: 130px;
+}
+.nxtprv{
+	display:none;
+}	
+.nxtprv i {
+	bottom: -67px !important;
+}
+.dots {
+	top: 146px;
+}
+.submenutriangle {
+	
+	margin:0 auto!important;
+	text-align:center;
+	right:0px!important;
+	top:3px;
+	z-index:0;
+
+}
+#submenu {
+	display: none;
+	text-align: justify;
+	position: relative;
+	background: #5082A0;
+	width: 100%;
+	top: 9px;
+	transform: translate(0%)!important;
+	padding: 55px;
+	box-shadow: 1px 1px 1px 1px aliceblue;
+	padding-top:0px;
+	border-top-left-radius: unset;
+
+}
+#submenu ul{
+
+	
+}
+#submenu li {
+	display: block;
+	border-right: none;
+	margin-top: -4px;
+	border-bottom: 1px solid cadetblue;
+	background: cadetblue;
+	z-index:2;
+	position: relative;
+}
+#submenu a {
+
+}
+
+
+
+}
+
